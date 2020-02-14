@@ -1,5 +1,5 @@
 #!/bin/bash
-RG_NAME=tt-keda-sample
+RG_NAME=thinktecture-keda-sample
 SBN_NAME=sbn-thinktecture-keda
 AZFN_TRIGGER_RULE="azfn-trigger"
 AZFN_BINDING_RULE="azfn-binding"

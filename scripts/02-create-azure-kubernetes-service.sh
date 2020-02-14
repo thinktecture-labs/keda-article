@@ -2,7 +2,7 @@
 
 
 AKS_NAME=ttkedaaks
-RG_NAME=tt-keda-sample
+RG_NAME=thinktecture-keda-sample
 LOCATION=westeurope
 echo -n "Provide ACR name (without .azurecr.io): "
 read ACR_NAME

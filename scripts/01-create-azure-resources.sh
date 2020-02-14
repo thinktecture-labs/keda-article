@@ -2,7 +2,7 @@
 
 ACR_NAME=ttkedasample$RANDOM
 AKS_NAME=ttkedaaks
-RG_NAME=tt-keda-sample
+RG_NAME=thinktecture-keda-sample
 LOCATION=westeurope
 SBN_NAME=sbn-thinktecture-keda
 AZFN_TRIGGER_RULE="azfn-trigger"
